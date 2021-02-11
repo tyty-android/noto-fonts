@@ -13,6 +13,6 @@
 // limitations under the License.
 
 prebuilt_font {
-    name: "NotoSansKhmer-VF.ttf",
-    src: "NotoSansKhmer-VF.ttf",
+    name: "NotoSansKhmer-Regular.ttf",
+    src: "NotoSansKhmer-Regular.ttf",
 }
