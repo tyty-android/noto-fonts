@@ -66,7 +66,8 @@ object FontFileHelper {
         val tableMajor = buffer.uint16
         val tableMinor = buffer.uint16
         if (tableMajor != 1 && tableMinor != 0) {
-            throw IOException("head table has wrong major/minor version code")
+            throw IOException("head table has wrong major/minor version code. " +
+            "expected 1.0 but " + tableMajor + "." + tableMinor);
         }
 
         return buffer.fixed

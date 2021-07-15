@@ -86,12 +86,14 @@ android_test {
     "androidx.test.ext.junit",
     "androidx.test.runner",
     "androidx.test.rules",
+    "androidx.emoji_emoji",
+    "mockito-target",
     "truth-prebuilt",
   ],
 
   test_suites: ["general-tests"],
 
-  asset_dirs: ["font"],
+  asset_dirs: ["font", "supported-emojis"],
 
   manifest: "tests/AndroidManifest.xml",
   test_config: "tests/AndroidTest.xml",
