@@ -209,4 +209,6 @@ PRODUCT_PACKAGES := \
     NotoSerifThai-Regular.ttf \
     NotoSerifTibetan-VF.ttf \
     NotoSerifYezidi-VF.ttf \
-    Plangothic.ttc
+    Plangothic.ttc \
+    SourceSans3VF-Italic.ttf \
+    SourceSans3VF-Upright.ttf

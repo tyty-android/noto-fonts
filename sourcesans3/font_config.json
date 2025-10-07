@@ -1,0 +1,25 @@
+[
+    {
+        "name": "source-sans-3",
+        "fonts": [
+            {
+                "file": "SourceSans3VF-Upright.ttf",
+                "postScriptName": "SourceSans3VF-Upright",
+                "style": "normal",
+                "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                }
+            },
+            {
+                "file": "SourceSans3VF-Italic.ttf",
+                "postScriptName": "SourceSans3VF-Italic",
+                "style": "italic",
+                "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                }
+            }
+        ]
+    }
+]

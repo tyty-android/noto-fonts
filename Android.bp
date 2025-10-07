@@ -243,6 +243,7 @@ filegroup {
         ":NotoSerifTibetan-VF",
         ":NotoSerifYezidi-VF",
         ":Plangothic",
+        ":SourceSans3",
     ],
 }
 

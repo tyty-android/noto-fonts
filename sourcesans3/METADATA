@@ -1,0 +1,13 @@
+name: "sourcesans3"
+description:
+    "Sans serif font family for user interface environments."
+
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://github.com/adobe-fonts/source-sans"
+  }
+  version: "3.052"
+  license_type: NOTICE
+  last_upgrade_date { year: 2023 month: 4 day: 4 }
+}
