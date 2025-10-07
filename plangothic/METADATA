@@ -1,0 +1,13 @@
+name: "plangothic"
+description:
+    "Plangothic Project is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks."
+
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project"
+  }
+  version: "V2.9.5787"
+  license_type: NOTICE
+  last_upgrade_date { year: 2025 month: 9 day: 11 }
+}

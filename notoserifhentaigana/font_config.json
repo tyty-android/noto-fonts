@@ -11,6 +11,8 @@
                     "wght": "400"
                 }
             }
-        ]
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK_ja"
     }
 ]

@@ -242,6 +242,7 @@ filegroup {
         ":NotoSerifThai",
         ":NotoSerifTibetan-VF",
         ":NotoSerifYezidi-VF",
+        ":Plangothic",
     ],
 }
 
