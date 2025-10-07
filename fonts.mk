@@ -208,4 +208,5 @@ PRODUCT_PACKAGES := \
     NotoSerifThai-Bold.ttf \
     NotoSerifThai-Regular.ttf \
     NotoSerifTibetan-VF.ttf \
-    NotoSerifYezidi-VF.ttf
+    NotoSerifYezidi-VF.ttf \
+    Plangothic.ttc
