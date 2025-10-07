@@ -1,0 +1,13 @@
+name: "sourceserif4"
+description:
+    "Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans."
+
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://github.com/adobe-fonts/source-serif"
+  }
+  version: "4.005"
+  license_type: NOTICE
+  last_upgrade_date { year: 2023 month: 1 day: 21 }
+}

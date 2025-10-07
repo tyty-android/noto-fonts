@@ -244,6 +244,7 @@ filegroup {
         ":NotoSerifYezidi-VF",
         ":Plangothic",
         ":SourceSans3",
+        ":SourceSerif4",
     ],
 }
 

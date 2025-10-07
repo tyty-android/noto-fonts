@@ -1,0 +1,25 @@
+[
+  {
+    "name": "serif",
+    "fonts": [
+      {
+        "file": "SourceSerif4Variable-Roman.ttf",
+        "postScriptName": "SourceSerif4Variable-Roman",
+        "style": "normal",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      },
+      {
+        "file": "SourceSerif4Variable-Italic.ttf",
+        "postScriptName": "SourceSerif4Variable-Italic",
+        "style": "italic",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      }
+    ]
+  }
+]

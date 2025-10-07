@@ -211,4 +211,6 @@ PRODUCT_PACKAGES := \
     NotoSerifYezidi-VF.ttf \
     Plangothic.ttc \
     SourceSans3VF-Italic.ttf \
-    SourceSans3VF-Upright.ttf
+    SourceSans3VF-Upright.ttf \
+    SourceSerif4Variable-Italic.ttf \
+    SourceSerif4Variable-Roman.ttf
