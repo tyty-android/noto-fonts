@@ -4,24 +4,41 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
-                "weight": "400",
-                "style": "normal",
+                "postScriptName": "SourceHanSansSCVF-ExtraLight",
                 "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                },
                 "index": "2"
             }
         ],
         "id": "NotoSansCJK_zh-Hans"
     },
     {
+        "lang": "zh-Hant-HK",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansHCVF-ExtraLight",
+                "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                },
+                "index": "4"
+            }
+        ],
+        "id": "NotoSansCJK_zh-Hant-HK"
+    },
+    {
         "lang": "zh-Hant,zh-Bopo",
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
-                "weight": "400",
-                "style": "normal",
+                "postScriptName": "SourceHanSansTCVF-ExtraLight",
                 "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                },
                 "index": "3"
             }
         ],
@@ -32,10 +49,11 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
-                "weight": "400",
-                "style": "normal",
+                "postScriptName": "SourceHanSansVF-ExtraLight",
                 "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                },
                 "index": "0"
             }
         ],
@@ -46,10 +64,11 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
-                "weight": "400",
-                "style": "normal",
+                "postScriptName": "SourceHanSansKVF-ExtraLight",
                 "supportedAxes": "wght",
+                "axes": {
+                    "wght": "400"
+                },
                 "index": "1"
             }
         ],

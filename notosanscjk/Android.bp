@@ -47,7 +47,7 @@ license {
 
 prebuilt_font {
     name: "NotoSansCJK-Regular.ttc",
-    src: "NotoSansCJK-wght-400-900.otf.ttc",
+    src: "SourceHanSans-VF.otf.ttc",
 }
 
 filegroup {
