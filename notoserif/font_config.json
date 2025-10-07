@@ -1,6 +1,6 @@
 [
     {
-        "name": "serif",
+        "name": "noto-serif",
         "fonts": [
             {
                 "file": "NotoSerif-Regular.ttf",
