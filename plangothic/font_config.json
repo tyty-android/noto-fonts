@@ -1,0 +1,28 @@
+[
+    {
+        "lang": "zh-Hans",
+        "fonts": [
+            {
+                "file": "Plangothic.ttc",
+                "postScriptName": "PlangothicP1",
+                "weight": "400",
+                "style": "normal",
+                "index": "0"
+            }
+        ],
+        "priority": 50
+    },
+    {
+        "lang": "zh-Hans",
+        "fonts": [
+            {
+                "file": "Plangothic.ttc",
+                "postScriptName": "PlangothicP2",
+                "weight": "400",
+                "style": "normal",
+                "index": "1"
+            }
+        ],
+        "priority": 51
+    }
+]
