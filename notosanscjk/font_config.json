@@ -4,7 +4,7 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "postScriptName": "SourceHanSansSCVF-Regular",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -14,11 +14,25 @@
         "id": "NotoSansCJK_zh-Hans"
     },
     {
+        "lang": "zh-Hant-HK",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansHCVF-Regular",
+                "weight": "400",
+                "style": "normal",
+                "supportedAxes": "wght",
+                "index": "4"
+            }
+        ],
+        "id": "NotoSansCJK_zh-Hant-HK"
+    },
+    {
         "lang": "zh-Hant,zh-Bopo",
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "postScriptName": "SourceHanSansTCVF-Regular",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -32,7 +46,7 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "postScriptName": "SourceHanSansVF-Regular",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -46,7 +60,7 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "postScriptName": "SourceHanSansKVF-Regular",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
