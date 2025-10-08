@@ -1,0 +1,13 @@
+name: "firacode"
+description:
+    "Free monospaced font with programming ligatures."
+
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://github.com/tonsky/FiraCode"
+  }
+  version: "6.002"
+  license_type: NOTICE
+  last_upgrade_date { year: 2021 month: 12 day: 7 }
+}
