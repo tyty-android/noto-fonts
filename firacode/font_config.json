@@ -1,0 +1,15 @@
+[
+  {
+    "name": "fira-code",
+    "fonts": [
+      {
+        "file": "FiraCode-VF.ttf",
+        "postScriptName": "FiraCode-Light",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      }
+    ]
+  }
+]

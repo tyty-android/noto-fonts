@@ -245,6 +245,7 @@ filegroup {
         ":Plangothic",
         ":SourceSans3",
         ":SourceSerif4",
+        ":FiraCode",
     ],
 }
 
