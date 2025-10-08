@@ -1,0 +1,41 @@
+[
+  {
+    "name": "monospace",
+    "fonts": [
+      {
+        "file": "FiraCode-VF.ttf",
+        "postScriptName": "FiraCode",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      }
+    ]
+  },
+  {
+    "name": "fira-mono",
+    "fonts": [
+      {
+        "file": "FiraCode-VF.ttf",
+        "postScriptName": "FiraCode",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      }
+    ]
+  },
+  {
+    "name": "fira-code",
+    "fonts": [
+      {
+        "file": "FiraCode-VF.ttf",
+        "postScriptName": "FiraCode",
+        "supportedAxes": "wght",
+        "axes": {
+          "wght": "400"
+        }
+      }
+    ]
+  }
+]

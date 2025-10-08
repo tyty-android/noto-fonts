@@ -213,4 +213,5 @@ PRODUCT_PACKAGES := \
     SourceSans3VF-Italic.ttf \
     SourceSans3VF-Upright.ttf \
     SourceSerif4Variable-Italic.ttf \
-    SourceSerif4Variable-Roman.ttf
+    SourceSerif4Variable-Roman.ttf \
+    FiraCode-VF.ttf
