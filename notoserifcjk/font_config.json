@@ -4,6 +4,78 @@
         "fonts": [
             {
                 "file": "NotoSerifCJK-Regular.ttc",
+                "postScriptName": "SourceHanSerifSC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "2"
+            }
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK-Regular_zh-Hans"
+    },
+    {
+        "lang": "zh-Hant-HK",
+        "fonts": [
+            {
+                "file": "NotoSerifCJK-Regular.ttc",
+                "postScriptName": "SourceHanSerifHC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "4"
+            }
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK-Regular_zh-Hant-HK"
+    },
+    {
+        "lang": "zh-Hant,zh-Bopo",
+        "fonts": [
+            {
+                "file": "NotoSerifCJK-Regular.ttc",
+                "postScriptName": "SourceHanSerifTC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "3"
+            }
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK-Regular_zh-Hant,zh-Bopo"
+    },
+    {
+        "lang": "ja",
+        "fonts": [
+            {
+                "file": "NotoSerifCJK-Regular.ttc",
+                "postScriptName": "SourceHanSerif-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "0"
+            }
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK-Regular_ja"
+    },
+    {
+        "lang": "ko",
+        "fonts": [
+            {
+                "file": "NotoSerifCJK-Regular.ttc",
+                "postScriptName": "SourceHanSerifK-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "1"
+            }
+        ],
+        "fallbackFor": "serif",
+        "target": "NotoSansCJK-Regular_ko"
+    },
+
+
+    {
+        "lang": "zh-Hans",
+        "fonts": [
+            {
+                "file": "NotoSerifCJK-Regular.ttc",
                 "postScriptName": "SourceHanSerifSCVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -13,7 +85,8 @@
             }
         ],
         "fallbackFor": "serif",
-        "target": "NotoSansCJK_zh-Hans"
+        "target": "NotoSansCJK_zh-Hans",
+        "priority": 1
     },
     {
         "lang": "zh-Hant-HK",
@@ -29,7 +102,8 @@
             }
         ],
         "fallbackFor": "serif",
-        "target": "NotoSansCJK_zh-Hant-HK"
+        "target": "NotoSansCJK_zh-Hant-HK",
+        "priority": 1
     },
     {
         "lang": "zh-Hant,zh-Bopo",
@@ -45,7 +119,8 @@
             }
         ],
         "fallbackFor": "serif",
-        "target": "NotoSansCJK_zh-Hant,zh-Bopo"
+        "target": "NotoSansCJK_zh-Hant,zh-Bopo",
+        "priority": 1
     },
     {
         "lang": "ja",
@@ -61,7 +136,8 @@
             }
         ],
         "fallbackFor": "serif",
-        "target": "NotoSansCJK_ja"
+        "target": "NotoSansCJK_ja",
+        "priority": 1
     },
     {
         "lang": "ko",
@@ -77,6 +153,7 @@
             }
         ],
         "fallbackFor": "serif",
-        "target": "NotoSansCJK_ko"
+        "target": "NotoSansCJK_ko",
+        "priority": 1
     }
 ]

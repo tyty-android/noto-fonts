@@ -4,6 +4,73 @@
         "fonts": [
             {
                 "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansSC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "2"
+            }
+        ],
+        "id": "NotoSansCJK-Regular_zh-Hans"
+    },
+    {
+        "lang": "zh-Hant-HK",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansHC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "4"
+            }
+        ],
+        "id": "NotoSansCJK-Regular_zh-Hant-HK"
+    },
+    {
+        "lang": "zh-Hant,zh-Bopo",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansTC-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "3"
+            }
+        ],
+        "id": "NotoSansCJK-Regular_zh-Hant,zh-Bopo"
+    },
+    {
+        "lang": "ja",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSans-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "0"
+            }
+        ],
+        "id": "NotoSansCJK-Regular_ja"
+    },
+    {
+        "lang": "ko",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-Regular.ttc",
+                "postScriptName": "SourceHanSansK-Regular",
+                "weight": 400,
+                "style": "normal",
+                "index": "1"
+            }
+        ],
+        "id": "NotoSansCJK-Regular_ko"
+    },
+
+
+    {
+        "lang": "zh-Hans",
+        "fonts": [
+            {
+                "file": "NotoSansCJK-VF.ttc",
                 "postScriptName": "SourceHanSansSCVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -12,13 +79,14 @@
                 "index": "2"
             }
         ],
-        "id": "NotoSansCJK_zh-Hans"
+        "id": "NotoSansCJK_zh-Hans",
+        "priority": 1
     },
     {
         "lang": "zh-Hant-HK",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
+                "file": "NotoSansCJK-VF.ttc",
                 "postScriptName": "SourceHanSansHCVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -27,13 +95,14 @@
                 "index": "4"
             }
         ],
-        "id": "NotoSansCJK_zh-Hant-HK"
+        "id": "NotoSansCJK_zh-Hant-HK",
+        "priority": 1
     },
     {
         "lang": "zh-Hant,zh-Bopo",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
+                "file": "NotoSansCJK-VF.ttc",
                 "postScriptName": "SourceHanSansTCVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -42,13 +111,14 @@
                 "index": "3"
             }
         ],
-        "id": "NotoSansCJK_zh-Hant,zh-Bopo"
+        "id": "NotoSansCJK_zh-Hant,zh-Bopo",
+        "priority": 1
     },
     {
         "lang": "ja",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
+                "file": "NotoSansCJK-VF.ttc",
                 "postScriptName": "SourceHanSansVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -57,13 +127,14 @@
                 "index": "0"
             }
         ],
-        "id": "NotoSansCJK_ja"
+        "id": "NotoSansCJK_ja",
+        "priority": 1
     },
     {
         "lang": "ko",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
+                "file": "NotoSansCJK-VF.ttc",
                 "postScriptName": "SourceHanSansKVF-ExtraLight",
                 "supportedAxes": "wght",
                 "axes": {
@@ -72,6 +143,7 @@
                 "index": "1"
             }
         ],
-        "id": "NotoSansCJK_ko"
+        "id": "NotoSansCJK_ko",
+        "priority": 1
     }
 ]
