@@ -246,6 +246,7 @@ filegroup {
         ":SourceSans3",
         ":SourceSerif4",
         ":FiraCode",
+        ":ShokakiSansHentaigana",
     ],
 }
 

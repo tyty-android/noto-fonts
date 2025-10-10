@@ -1,0 +1,15 @@
+[
+    {
+        "lang": "ja",
+        "priority": 100,
+        "fonts": [
+            {
+                "file": "ShokakiHentaiganaGothic.ttf",
+                "postScriptName": "ShokakiHentaiganaGothic",
+                "style": "normal",
+                "weight": "400"
+            }
+        ],
+        "id": "ShokakiHentaiganaGothic"
+    }
+]

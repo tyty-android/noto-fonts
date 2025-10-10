@@ -214,4 +214,5 @@ PRODUCT_PACKAGES := \
     SourceSans3VF-Upright.ttf \
     SourceSerif4Variable-Italic.ttf \
     SourceSerif4Variable-Roman.ttf \
-    FiraCode-VF.ttf
+    FiraCode-VF.ttf \
+    ShokakiHentaiganaGothic.ttf

@@ -1,0 +1,13 @@
+name: "shokakisanshentaigana"
+description:
+    "Shokaki Hentaigana.",
+
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://shokaki.booth.pm/items/5633978"
+  }
+  version: "1.04"
+  license_type: NOTICE
+  last_upgrade_date { year: 2025 month: 9 day: 7 }
+}
